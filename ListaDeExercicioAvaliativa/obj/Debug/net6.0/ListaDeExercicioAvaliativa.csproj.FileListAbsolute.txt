@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\bin\Debug\net6.0\ListaDeExercicioAvaliativa.exe
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\bin\Debug\net6.0\ListaDeExercicioAvaliativa.deps.json
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\bin\Debug\net6.0\ListaDeExercicioAvaliativa.runtimeconfig.json
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\bin\Debug\net6.0\ListaDeExercicioAvaliativa.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\bin\Debug\net6.0\ListaDeExercicioAvaliativa.pdb
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\refint\ListaDeExercicioAvaliativa.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.pdb
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ListaDeExercicioAvaliativa.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\ListaDeExercicioAvaliativa\obj\Debug\net6.0\ref\ListaDeExercicioAvaliativa.dll

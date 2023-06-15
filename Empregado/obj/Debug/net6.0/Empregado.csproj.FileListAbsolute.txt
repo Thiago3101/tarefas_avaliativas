@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\bin\Debug\net6.0\Empregado.exe
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\bin\Debug\net6.0\Empregado.deps.json
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\bin\Debug\net6.0\Empregado.runtimeconfig.json
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\bin\Debug\net6.0\Empregado.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\bin\Debug\net6.0\Empregado.pdb
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\refint\Empregado.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.pdb
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\Empregado.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\Empregado\obj\Debug\net6.0\ref\Empregado.dll

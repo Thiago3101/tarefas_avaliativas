@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\bin\Debug\net6.0\AreaTerreno.exe
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\bin\Debug\net6.0\AreaTerreno.deps.json
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\bin\Debug\net6.0\AreaTerreno.runtimeconfig.json
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\bin\Debug\net6.0\AreaTerreno.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\bin\Debug\net6.0\AreaTerreno.pdb
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\refint\AreaTerreno.dll
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.pdb
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\AreaTerreno.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\ListaDeExercicioAvaliativa\AreaTerreno\obj\Debug\net6.0\ref\AreaTerreno.dll
